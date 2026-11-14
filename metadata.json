@@ -1,0 +1,9 @@
+{
+  "name": "HCM Lite - AI-Assisted Human Capital Management",
+  "description": "Comprehensive Human Capital Management system built for the Saylani Hackathon with role-based access for Admin, HR, and Employees, 9 modules, web/camera attendance, smart leave, automated payroll, and Gemini-powered HR AI assistant with real-data tool calling.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
